@@ -21,7 +21,7 @@ There are 4 files for the code as follow:
 2. Open the folder from zip file.
 3. Open Youtube Views.Rproj using RStudio software.
 4. Open and run 01_data_gathering.R file in the scripts folder to get the data.
-5. Open and run 02_data_simulating.R file in the scripts folder to get the data.
+5. Open and run 02_data_simulating.R file in the scripts folder to see the simulation of the data.
 6. Open and run paper.Rmd in the outputs folder to get the pdf file of the paper with all figures and text.
 
 ## List of figures and tables
